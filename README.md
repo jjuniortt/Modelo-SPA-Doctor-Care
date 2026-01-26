@@ -1,8 +1,8 @@
 # Ola! Criado um modelo de SPA para área de saúde. 🙃
 
-<strong>Maratona Explorer:</strong> Modelo de SPA para área de saúde.
+<strong>Projeto Explorer:</strong> Modelo de SPA para área de saúde.
 
-O principal objetivo desse trabalho é montar projeto simples, porém contendo as principais habilidades para quem está começando a trabalhar na área da programação, montando os primeiros códigos e os primeiros projetos.
+O principal objetivo desse trabalho é montar projeto simples, porém contendo as principais habilidades para quem está utilizando HTM, CSS e JavaScript.
 
 Para a conclusão da aratona, criamos um Criamos um modelo de SPA para área de saúde a partir das três tecnologias que fazem parte da base de qualquer aplicação web - <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> e <strong>GitHub</strong>.
 
